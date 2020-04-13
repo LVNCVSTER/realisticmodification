@@ -1,0 +1,17 @@
+{
+  "group": "realisticmodification",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "realisticmodification:wax",
+    "count": 1
+  }
+}
